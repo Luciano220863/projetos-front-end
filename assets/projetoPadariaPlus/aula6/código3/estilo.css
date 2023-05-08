@@ -1,0 +1,33 @@
+
+body{
+    background-color: #e5e5e5;
+    font-family: Verdana;
+    font-size: 18px;
+    text-align: center;
+}
+
+div {
+    width: 500px;
+    margin: 15px auto;
+    background-color: #ffffff;
+    padding: 10px 15px;
+}
+
+.texto-filme {
+    margin: 10px 0;
+    padding: 15px;
+    border-left: 3px solid #ff2200;
+    text-align: justify;
+}
+
+.texto-filme span {
+    font-weight: bold;
+}
+
+.texto-vermelho {
+    color: #ff2200;
+}
+
+.texto-negrito {
+    font-weight: bold;
+}

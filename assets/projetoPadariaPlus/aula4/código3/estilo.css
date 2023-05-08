@@ -1,0 +1,65 @@
+
+body {
+    font-family: Tahoma;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.secao-topo {
+    margin: 0 auto;
+    background: #dfdfdf;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.img-logotipo {
+    width: 150px;
+    background-color: #fff;
+}
+
+.secao-idioma {
+    width: 650px;
+    margin: 20px auto 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.secao-azul {
+    background-color: #0291dd;
+    color: #fff;
+}
+
+.secao-rodape {
+    width: 350px;
+    margin: 15px auto 0;
+}
+
+.texto-azul {
+    color: #0291dd;
+}
+
+.img-bandeira-idioma {
+    width: 30px;
+}

@@ -1,0 +1,45 @@
+
+== SEÇÃO SOBRE ==
+Título:
+O melhor de nossos pães e bolos para você
+
+Subtítulo: (h2)
+Desde 2001, o lugar mais gostoso da cidade
+
+== SEÇÃO PRODUTOS ==
+Subtítulo (h3)
+Veja nossos produtos abaixo
+
+Subtítulo (h4)
+Pães
+
+Parágrafo
+Temos um processo de fabricação 100% caseiro. Esse foi um dos maiores motivos que fizeram com que a Padaria Plus crescesse com as proporções que temos hoje. Temos um pão único de pura qualidade.
+
+Subtítulo (h4)
+Bolos
+
+Parágrafo
+Uma viagem para a Itália nos fez conhecer alguns ingredientes que são essenciais para que a massa do bolo fique macia e gostosa. Hoje temos um produto incomparável.
+
+== SEÇÃO CONTATO ==
+Subtítulo (h3)
+Contato
+
+Parágrafo
+Estamos localizados na Avenida Santos Agoz Nº 456
+
+Parágrafo
+Nosso telefone: (99) 99999-9999
+
+Parágrafo
+Estamos funcionando nos seguintes horários:
+
+Parágrafo
+Segunda à sexta: 7h às 16h
+
+Parágrafo
+Sábados e domingos: 7h às 13h
+
+Parágrafo
+Feriados: 8h às 12h

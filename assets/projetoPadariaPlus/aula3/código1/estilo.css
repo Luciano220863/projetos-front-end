@@ -1,0 +1,18 @@
+div {
+    width: 500px;
+    margin: 40px auto;
+}
+
+p {
+    font-size: 24px;
+    font-family: Tahoma;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+}
+
+.texto-destaque {
+    color: #ff2200;
+}

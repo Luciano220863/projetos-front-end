@@ -1,0 +1,29 @@
+
+body{
+    background-color: #ffffff;
+    font-family: Tahoma;
+    font-size: 18px;
+    text-align: center;
+}
+
+div {
+    width: 500px;
+    margin: 15px auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.texto-destaque {
+    color: #ff5500;
+}
+
+p .texto-destaque {
+    font-weight: normal;
+    font-style: italic;
+} 

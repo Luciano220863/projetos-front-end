@@ -1,0 +1,18 @@
+
+
+
+p {
+    font-family: Tahoma;
+    font-size: 24px;
+}
+
+div p {
+    font-weight: bold;
+    color: red;
+}
+
+
+.texto-destaque {
+    font-weight: bold;
+    color: red;
+}
