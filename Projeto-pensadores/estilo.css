@@ -1,0 +1,12 @@
+.secao-conteudo .texto {
+    color: #f0f7fa;
+    border-left: 5px solid #109ce3;
+    font-size: x-large;
+    padding-left: 10px;
+    background: #05775e;
+    text-align: center;
+}
+
+.img-icones{
+    width: 180px;
+}
