@@ -1,0 +1,68 @@
+@ { 
+    background: #c3c3c3
+}
+div {
+    width: 600px;
+    margin: 30px auto;
+}
+
+.titulo {
+    font-family: Tahoma;
+    text-align: Center;
+}
+
+.subtitulo, .paragrafo {
+    font-family: Helvetica;
+    font-size: 18px;
+}
+
+.subtitulo {
+    color: #2358eb;
+    margin-bottom: 5px;
+    border-left: 3px solid #2358eb;
+    padding-left: 5px;
+}
+
+.paragrafo {
+    line-height: 24px;
+    text-align: justify;
+    margin-top: 0;
+}
+
+.secao-topo {
+    margin: 0 auto;
+    background: #dfdfdf;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.img-logotipo {
+    width: 150px;
+    background-color: #fff;
+}
+
+.secao-idioma {
+    width: 650px;
+    margin: 20px auto 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.secao-azul {
+    background-color: #0291dd;
+    color: #fff;
+}
+
+.secao-rodape {
+    width: 350px;
+    margin: 15px auto 0;
+}
+
+.texto-azul {
+    color: #0291dd;
+}
+
+.img-manga {
+    width: 300px;
+    height: 168px;
+}
