@@ -1,0 +1,24 @@
+div {
+    width: 500px;
+    margin: 25px auto;
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.texto-negrito {
+    font-weight: bold;
+}
+
+.texto-verde {
+    color: #0e810c;
+}
+
