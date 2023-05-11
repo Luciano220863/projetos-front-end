@@ -1,0 +1,108 @@
+
+body{
+    background-color: #ffffff;
+    font-family: Tahoma;
+    font-size: 18px;
+}
+
+div {
+    width: 580px;
+    margin: 15px auto;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.texto-destaque-blue{
+    color: rgb(5, 5, 236);
+}
+
+.texto-destaque {
+    color: #ff5500;
+}
+
+.texto {
+    max-width: 580px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding: 15px;
+    font-style: italic;
+    background: #a1c9f7;
+}
+
+p .texto-destaque {
+    font-weight: normal;
+    font-style: italic;
+} 
+
+.container {
+    position: relative;
+    padding: 15px;
+    max-width: 580px;
+    margin: 0 auto;
+}
+
+.gallery-wrapper {
+    overflow-x: auto;
+}
+
+.arrow-left,
+.arrow-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: auto;
+    bottom: 0;
+    font-size: 20px;
+    line-height: 580px;
+    width: 40px;
+    color: #fff;
+    transition: all 600ms ease-in-out;
+    background: linear-gradient(to left, transparent 0%, black 200%);
+    opacity: 0.1;
+    cursor: pointer;
+    border: none;
+}
+
+.arrow-left:hover,
+.arrow-right:hover {
+    opacity: 1;
+}
+
+.arrow-right {
+    right: 0;
+    left: auto;
+    text-align: right;
+    background: linear-gradient(to right, transparent 0%, black 200%);
+}
+
+.gallery {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 15px;
+}
+
+.item {
+    width: 580px;
+    height: 420px;
+    flex-shrink: 0;
+    transition: all 600ms ease-in-out;
+    opacity: 0.5;
+}
+
+.current-item {
+    opacity: 1;
+}
+
+.hr{
+    width: 100%;
+
+}
